@@ -1,8 +1,7 @@
 {
   "name": "log",
-  "version": "0.1.0-dev",
-  "description": "Under development",
-  "main": "index.js",
+  "version": "0.1.0",
+  "main": "./lib/log.js",
   "scripts": {
     "test": "mocha"
   },
@@ -10,10 +9,14 @@
     "type": "git",
     "url": "git+https://github.com/valaxy/log.git"
   },
-  "author": "",
+  "author": "valaxy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/valaxy/log/issues"
   },
-  "homepage": "https://github.com/valaxy/log#readme"
+  "homepage": "https://github.com/valaxy/log#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "winston": "^2.1.0"
+  }
 }
