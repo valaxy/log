@@ -1,5 +1,5 @@
-var assert = require('assert')
-var getlog = require('../lib/get-log')
+const assert = require('assert')
+const getlog = require('../lib/get-log')
 
 
 describe('getlog', function () {

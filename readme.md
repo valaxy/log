@@ -1,3 +1,6 @@
+[![dependencies Status](https://david-dm.org/valaxy/log/status.svg?style=flat-square)](https://david-dm.org/valaxy/log)
+
+- Under development
 - Guide about how to log clearly 
 - And implementation which exposes some helpful log functions
 
